@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="DAWAsset" id="{d14991bd-4927-4433-a7c2-05a02165186d}">
+		<property name="assetPath">
+			<value>RogueaLike.rpp.link/Exit 2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>2</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a409400d-c435-4e3a-8b7a-5eaf3c993e57}</destination>
+		</relationship>
+		<relationship name="project">
+			<destination>{a40ab1ff-8d86-483e-91f0-e4327f6ec3b7}</destination>
+		</relationship>
+	</object>
+</objects>
